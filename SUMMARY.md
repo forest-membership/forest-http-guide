@@ -1,6 +1,6 @@
 # Table of contents
 
-* [READ ME](README.md)
+* [readME](README.md)
 * [서문](openning.md)
 * [1. HTTP 웹의 기초](1.-http-web-basic/README.md)
   * [Chapter1. HTTP 개론](1.-http-web-basic/chapter1.-basic.md)
