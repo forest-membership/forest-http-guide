@@ -11,6 +11,7 @@
 ## draft
 
 * [Sohn](draft/sohn.md)
-* [Kang](draft/kang.md)
+* [Kang](draft/kang/README.md)
+  * [remind](draft/kang/remind.md)
 * [Gu](draft/gu.md)
 
