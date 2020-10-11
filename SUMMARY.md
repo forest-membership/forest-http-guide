@@ -12,6 +12,7 @@
 
 * [Sohn](draft/sohn.md)
 * [Kang](draft/kang/README.md)
+  * [Answer](draft/kang/answer.md)
   * [remind](draft/kang/remind.md)
 * [Gu](draft/gu.md)
 
