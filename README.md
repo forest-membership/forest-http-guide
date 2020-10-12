@@ -1,8 +1,4 @@
----
-description: HTTP 스터디 저장소
----
-
-# readME
+# HTTP 스터디 저장소
 
 ### HTTP 하나씩 공부하기
 
