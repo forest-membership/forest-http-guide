@@ -14,6 +14,7 @@
 
 * [Sohn](draft/sohn.md)
 * [Kang](draft/kang/README.md)
+  * [3장 정리 중](draft/kang/3.md)
   * [Answer](draft/kang/answer.md)
   * [remind](draft/kang/remind.md)
 * [Gu](draft/gu.md)
